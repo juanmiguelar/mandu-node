@@ -1,5 +1,5 @@
 <!--
-     For work in progress PRs, please open a Draft PR.
+     For work-in-progress PRs, please open a Draft PR.
 
      Before submitting a PR, please ensure you've done the following:
      - 📖 Read Topology's Contributing Guide: https://github.com/topology-gg/.github/CONTRIBUTING.md
@@ -26,11 +26,11 @@
 ## Added/updated tests?
 
 - [ ] Yes
-- [ ] No, because why: _justify why you didn't added tests_
+- [ ] No, because why: _justify why you didn't add tests_
 - [ ] I need help with writing tests
 
 ## Additional Info
 
 _add instructions or screenshots on what you might think is relevant or instructions on how to manually test it_
 
-## [optional] Are there any post deployment tasks we need to perform?
+## [optional] Do we need to perform any post-deployment tasks?
